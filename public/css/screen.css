@@ -1,0 +1,100 @@
+@media screen and (max-width : 1280px) {
+
+}
+/*====================================================================*/
+@media screen and (max-width : 1024px) {
+
+}
+/*====================================================================*/
+@media screen and (max-width : 768px) {
+    section.pageStatic article.main, section.pageStatic article.sidebar {
+        width: 100%;
+    }
+    .sidebarTop, .sidebarCenter {
+        width: 100%;
+    }
+    .sidebarTitle>a {
+        text-align: right;
+    }
+    section.content header.mainHeader h3, header.mainHeader h3 {
+        width: 30%;
+    }
+    section.mainSlider_2 {
+        height: 240px !important;
+    }
+
+
+}
+/*====================================================================*/
+@media screen and (max-width : 736px) {
+    header.header .container {
+        max-width: 100% !important;
+    }
+    header.header .container .left {
+        text-align: center;
+        margin-bottom: 10px;
+
+    }
+    nav.navbar {
+        border-bottom: 1px solid #ddd;
+    }
+    section.content header.mainHeader h3, header.mainHeader h3 {
+        width: 37%;
+    }
+    section.mainSlider_2 {
+        height: 430px !important;
+    }
+    .Topic_2 {
+        height: 100%;
+    }
+    .mainTopicImg_2 {
+        height: 260px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .mainTopicImg_2 img {
+        width: 100%;
+    }
+    .mainTopicTitle_2 {
+        margin-left: 0;
+        clear: both;
+        padding: 10px;
+    }
+
+}
+/*====================================================================*/
+@media screen and (max-width : 734px) {
+
+}
+/*====================================================================*/
+@media screen and (max-width : 684px) {
+
+
+}
+/*====================================================================*/
+@media screen and (max-width : 667px) {
+
+}
+/*====================================================================*/
+@media screen and (max-width : 640px) {
+    section.content .container {
+        max-width: 100% !important;
+        padding: 0;
+    }
+    section.content header.mainHeader h3, header.mainHeader h3 {
+        width: 65%;
+    }
+}
+/*====================================================================*/
+@media screen and (max-width : 480px) {
+
+
+}
+/*====================================================================*/
+@media screen and (max-width : 320px) {
+
+}
+/*====================================================================*/
+@media screen and (max-width : 684px) {
+
+}
